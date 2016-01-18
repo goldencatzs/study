@@ -101,6 +101,7 @@ git基本操作
 
 *	git status 查看代码库状态
 *	git commit -m "xxx" 添加简单提交信息，引号内为注释
+*	git commit --amend 修改commit信息
 *	git log 查看版本信息，可选用参数git 
 *	git log --pretty=oneline 将commit信息简单显示为一行
 *	git show 1da4251a26b1056382af96b2f8315d87d60d0ceb 显示指定版本的修改，如果不写版本号，显示最后一次提交信息
