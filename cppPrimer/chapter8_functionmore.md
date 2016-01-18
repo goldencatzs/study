@@ -35,7 +35,7 @@ C++编译器采用名称修饰或名称矫正来为标识重载的函数
 
 模板并不创建任何函数，只是告诉编译器如何定义函数
 
-template <typename T\>
+template \<typename T\>
 
 void Swap(T &a, T &b);
 
